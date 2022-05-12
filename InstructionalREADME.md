@@ -34,6 +34,9 @@ Your first task is to visualize an earthquake data set.
 
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize. When you click on a data set, for example "All Earthquakes from the Past 7 Days", you will be given a JSON representation of that data. You will use the URL of this JSON to pull in the data for our visualization.
 
+   https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+   
+
    ![4-JSON](Images/4-JSON.png)
 
 2. **Import & Visualize the Data**
@@ -57,6 +60,8 @@ Your first task is to visualize an earthquake data set.
 ![5-Advanced](Images/5-Advanced.png)
 
 The USGS wants you to plot a second data set on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in a second data set and visualize it alongside your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
+
+http://peterbird.name/oldFTP/PB2002/PB2002_tectonic_zones.grd.txt
 
 In this step, you will:
 
