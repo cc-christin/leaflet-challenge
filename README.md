@@ -10,7 +10,7 @@ The data was sourced from USGS GeoJSON Feed
 ## API
 API from [MapBox](https://www.mapbox.com/)
 
-[![geojson Data Image](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyJSON.png)
+![geojson Data Image](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyJSON.png)
 
 ## Technology Used
 * JavaScript
@@ -27,11 +27,11 @@ Pulled data set from USGS GeoJSON Feed for 'All Earthquakes Past 7 Days' [url](h
 #### 2 Import & Visualize Data
 Used Leaflet to create map, plotting all earthquakes from data set based on longitude and latitude 
 
-[![Basic Leaflet Map](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyBasicMap.png)
+![Basic Leaflet Map](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyBasicMap.png)
 
 Data markers were made to reflect magnitude of earthquake via size and depth via color
 * Earthquake with higher magnitudes are larger in size
 * Earthquake with larger depths are darker in color
 * PopUp provide more context for each feature 
-[![PopUps](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyPopUps.png)
+![PopUps](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyPopUps.png)
 
