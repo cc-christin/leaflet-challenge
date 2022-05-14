@@ -33,5 +33,6 @@ Data markers were made to reflect magnitude of earthquake via size and depth via
 * Earthquake with higher magnitudes are larger in size
 * Earthquake with larger depths are darker in color
 * PopUp provide more context for each feature 
+
 ![PopUps](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyPopUps.png)
 
