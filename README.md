@@ -7,10 +7,10 @@ As a new hire, you are tasked with building a new tool to visualize a massive am
 The data was sourced from USGS GeoJSON Feed
 [USGS All Earthquakes Past 7 Days](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
 
+![geojson Data Image](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyJSON.png)
+
 ## API
 API from [MapBox](https://www.mapbox.com/)
-
-![geojson Data Image](https://github.com/cc-christin/leaflet-challenge/blob/main/Images/MyJSON.png)
 
 ## Technology Used
 * JavaScript
